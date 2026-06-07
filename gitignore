@@ -1,0 +1,30 @@
+# Model files (too large for GitHub)
+*.h5
+*.pkl
+*.pt
+*.pth
+
+# Screenshots generated at runtime
+screenshot.jpg
+
+# Python cache
+__pycache__/
+*.pyd
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (too large)
+data/
+datasets/
