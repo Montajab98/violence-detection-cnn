@@ -28,3 +28,9 @@ Thumbs.db
 # Data (too large)
 data/
 datasets/
+
+# Local secrets and Python environments
+.env
+.env.*
+!.env.example
+.venv/
